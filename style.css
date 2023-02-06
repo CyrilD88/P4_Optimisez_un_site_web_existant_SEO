@@ -56,6 +56,17 @@ a:hover {
     padding: 20px 50px;
 }
 
+.message-presentation{
+    font-size: 22px;
+    color: #000000;
+}
+.message-presentation2{
+    font-size: 22px;
+    color: #000000;
+}
+.message-presentation3{
+    font-size: 20px;
+}
 .bg-center,
 .bg-l-edge,
 .bg-r-edge,
@@ -193,10 +204,10 @@ a:hover {
     border-color: rgba(0, 0, 0, .3);
 }
 
-.d-bloc .panel,
+/* .d-bloc .panel,
 .l-bloc {
     color: rgba(0, 0, 0, .5);
-}
+} */
 
 .d-bloc .panel button:hover,
 .l-bloc button:hover {
@@ -653,7 +664,8 @@ label,
 .btn,
 a {
     font-family: "helvetica";
-    font-weight: 400;
+    font-weight: 500;
+    
     /* color: #575757!important; */
 }
 
@@ -681,7 +693,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 16px;
 }
 
 .tight-width-whitespace {
