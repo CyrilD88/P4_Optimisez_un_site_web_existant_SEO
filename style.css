@@ -859,7 +859,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image_de_presentation_redimension.PNG")
+    background-image: url("img/image_de_presentation_redimension.webp")
 }
 
 @media (max-width: 1024px) {
