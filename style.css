@@ -94,7 +94,7 @@ a:hover {
 .bloc-bg-texture::before {
     content: "";
     background-size: 2px 2px;
-    position: absolute;
+    /* position: absolute; */
     top: 0;
     bottom: 0;
     left: 0;
@@ -375,6 +375,12 @@ a:hover {
     position: relative;
     z-index: 2;
 }
+
+.button-contact{
+    display: flex;
+    justify-content: center;
+}
+/*médiaqueries*/
 
 @media (min-width: 768px) {
     .site-navigation {
@@ -813,9 +819,10 @@ h4 {
 }
 
 .btn-atomic-tangerine:hover {
-    /* background: #c27956!important;
-    color: #FFFFFF!important; */
+    background: #c27956!important;
+    color: #FFFFFF!important;
     border: 1px solid black;
+    cursor: pointer;
 }
 
 .ltc-white {
