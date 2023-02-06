@@ -91,7 +91,7 @@ a:hover {
 }
 
 .texture-paper::before {
-    background: url("img/texture-paper.png");
+    /* background: url("img/texture-paper.png"); */
     background-size: 280px 280px;
 }
 
@@ -284,9 +284,16 @@ a:hover {
 }
 
 #bloc-1-hero h1 {
-    font-size: 32px;
+    font-size: 40px;
+    font-weight: 900;
+    color: black;
+
+
 }
 
+.presentation h1{
+   text-shadow: 0px 0px 18px 5px #fff;
+}
 .navbar {
     margin-bottom: 0;
     z-index: 1;
@@ -651,7 +658,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    /* color: #575757!important; */
 }
 
 .container {
@@ -660,6 +667,7 @@ a {
 
 .hero-bloc-text {
     font-size: 38px;
+  
 }
 
 .hero-bloc-text-sub {
@@ -692,7 +700,7 @@ p {
 
 .cta-hero {
     margin-top: 22px;
-    color: #FFFFFF!important;
+    /* color: #FFFFFF!important; */
     text-transform: uppercase;
     padding: 12px 28px 12px 28px;
     font-size: 16px;
@@ -722,9 +730,9 @@ h3 {
     box-shadow: 0px 0px 0px #000000;
 }
 
-h1 {
+/* h1 {
     color: #333333!important;
-}
+} */
 
 h4 {
     color: #333333!important;
@@ -774,18 +782,22 @@ h4 {
     background-color: #F3976C;
 }
 
-.tc-white {
+/* .tc-white {
     color: #F3976C!important;
-}
+} */
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    /* color: #FFFFFF!important; */
+    color: #000000;
+    font-weight: 900;
+    border: 1px solid black;
 }
 
 .btn-atomic-tangerine:hover {
-    background: #c27956!important;
-    color: #FFFFFF!important;
+    /* background: #c27956!important;
+    color: #FFFFFF!important; */
+    border: 1px solid #FFF;
 }
 
 .ltc-white {
