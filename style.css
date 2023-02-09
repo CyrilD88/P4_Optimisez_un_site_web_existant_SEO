@@ -426,7 +426,7 @@ label{
     font-weight: 600!important;
 }
 
-.navbar-header{
+.navbar-header img{
     width: 233px;
     height: 56px;
 }
@@ -979,7 +979,7 @@ h4 {
 
 @media (max-width: 767px) {
 
-    .navbar-header{
+    .navbar-header img{
         width: 466px;
         height: 112px;
       
