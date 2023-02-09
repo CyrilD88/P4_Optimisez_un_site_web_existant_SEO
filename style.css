@@ -426,6 +426,10 @@ label{
     font-weight: 600!important;
 }
 
+.navbar-header{
+    width: 233px;
+    height: 56px;
+}
 
 /*médiaqueries*/
 
@@ -974,6 +978,12 @@ h4 {
 }
 
 @media (max-width: 767px) {
+
+    .navbar-header{
+        width: 466px;
+        height: 112px;
+      
+    }
     .page-container {
         overflow-x: hidden;
         position: relative;
