@@ -980,11 +980,11 @@ h4 {
 
 @media (max-width: 767px) {
 
-    .navbar-header img{
+    /* .navbar-header img{
         width: 932px;
         height: 224px;
       
-    }
+    } */
     .page-container {
         overflow-x: hidden;
         position: relative;
