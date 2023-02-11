@@ -898,14 +898,15 @@ h4 {
     border-color: #364577!important;
 }
 
-.bg-dots-bg {
+/* .bg-dots-bg {
     background-image: url("img/dots-bg.png");
-}
+} */
 
 
 
 .bg-banniere {
     background-image: url("img/agence-la-panthere-redimension\ .webp");
+    width: 100%;
 }
 
 .bg-presentation {
@@ -1021,7 +1022,7 @@ h4 {
         border-bottom: 1px solid rgba(0, 0, 0, .1);
         background: rgba(0, 0, 0, .05);
         text-align: left;
-        padding-left: 15px;
+        
         width: 100%;
     }
     .nav > li:hover {
