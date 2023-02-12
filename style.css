@@ -393,7 +393,7 @@ a:hover {
 }
 .navbar-header{
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
     align-items: center;
     flex-wrap: wrap;
    
@@ -980,11 +980,11 @@ h4 {
 
 @media (max-width: 767px) {
 
-    /* .navbar-header img{
-        width: 932px;
-        height: 224px;
+    .navbar-header {
+        width: 233px;
+        /* height: 56px; */
       
-    } */
+    }
     .page-container {
         overflow-x: hidden;
         position: relative;
