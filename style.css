@@ -979,18 +979,18 @@ h4 {
 }
 
 @media (max-width: 767px) {
-    /* .l-bloc{
+    .l-bloc{
         margin-top: 10px;
-    } */
+    }
     .bloc-nav{
         display: flex;
         justify-content: center;
         align-items: center;
     }
-    .navbar-header{
+    /* .navbar-header{
         width: 233px;
         height: 56px;
-    }
+    } */
     .navbar-image {
         width: 233px;
         height: 56px;
@@ -1025,8 +1025,8 @@ h4 {
         display: flex;
         justify-content: center;
         align-items: center;
-        width: 233px;
-        height: 56px;
+        /* width: 233px;
+        height: 56px; */
     }
     .site-navigation {
         position: inherit;
