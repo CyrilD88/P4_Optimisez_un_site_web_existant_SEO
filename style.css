@@ -980,9 +980,9 @@ h4 {
 
 @media (max-width: 767px) {
 
-    .navbar-header {
+    .navbar-image {
         width: 233px;
-        /* height: 56px; */
+        height: 56px;
       
     }
     .page-container {
@@ -1011,6 +1011,9 @@ h4 {
     .navbar.row {
         margin-left: 0;
         margin-right: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
     }
     .site-navigation {
         position: inherit;
