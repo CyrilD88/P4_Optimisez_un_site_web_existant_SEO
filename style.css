@@ -907,7 +907,7 @@ h4 {
 
 .bg-banniere {
     background-image: url("img/agence-la-panthere-redimension\ .webp");
-    width: 100%;
+    margin-top: 10px;
 }
 
 .bg-presentation {
@@ -979,10 +979,17 @@ h4 {
 }
 
 @media (max-width: 767px) {
+    /* .l-bloc{
+        margin-top: 10px;
+    } */
     .bloc-nav{
         display: flex;
         justify-content: center;
         align-items: center;
+    }
+    .navbar-header{
+        width: 233px;
+        height: 56px;
     }
     .navbar-image {
         width: 233px;
