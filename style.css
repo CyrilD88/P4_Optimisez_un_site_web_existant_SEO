@@ -979,10 +979,11 @@ h4 {
 }
 
 @media (max-width: 767px) {
-    /* .bloc-nav{
+    .bloc-nav{
         display: flex;
         justify-content: center;
-    } */
+        align-items: center;
+    }
     .navbar-image {
         width: 233px;
         height: 56px;
