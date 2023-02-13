@@ -4248,9 +4248,9 @@ input[type=submit].btn-block {
     opacity: 1
 }
 
-.collapse {
+/* .collapse {
     display: none
-}
+} */
 
 .collapse.in {
     display: block
@@ -5048,9 +5048,9 @@ textarea.input-group-sm>.input-group-btn>.btn {
     }
 }
 
-.tab-content>.tab-pane {
+/* .tab-content>.tab-pane {
     display: none
-}
+} */
 
 .tab-content>.active {
     display: block
