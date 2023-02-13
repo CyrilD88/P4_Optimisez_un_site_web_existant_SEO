@@ -56,6 +56,14 @@ a:hover {
     padding: 20px 50px;
 }
 
+.btn-one{
+    display: flex;
+    justify-content: center;
+}
+.btn-two{
+    display: flex;
+    justify-content: center;
+}
 .message-presentation{
     font-size: 22px;
     color: #000000;
