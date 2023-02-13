@@ -63,6 +63,7 @@ a:hover {
 .btn-two{
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 .message-presentation{
     font-size: 22px;
