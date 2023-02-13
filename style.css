@@ -390,6 +390,8 @@ a:hover {
     display: flex;
     justify-content: space-evenly;
     align-items: center;
+    width: 233px;
+    height: 56px;
 }
 .navbar-header{
     display: flex;
@@ -1039,7 +1041,8 @@ h4 {
         border-bottom: 1px solid rgba(0, 0, 0, .1);
         background: rgba(0, 0, 0, .05);
         text-align: left;
-        
+        display: flex;
+        justify-content: center;
         width: 100%;
     }
     .nav > li:hover {
