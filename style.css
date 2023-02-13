@@ -59,6 +59,7 @@ a:hover {
 .btn-one{
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 .btn-two{
     display: flex;
